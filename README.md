@@ -1,1 +1,1 @@
-# GoogleMaps with ripple effect for markers
+# GoogleMaps with ripple effect for markers using javascript.
